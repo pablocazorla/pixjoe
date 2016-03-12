@@ -1,5 +1,4 @@
 body{
-	background-color: #DDD;
 	font:14px/1.3em 'Lato',sans-serif;
 	overflow-y:scroll; 
 }
@@ -16,4 +15,12 @@ h1{
 
 canvas{
 	background-color: #FFF;
+}
+
+.core{
+	width: 260px;
+}
+.core img{
+	width: 100% !important;
+	height: auto !important;
 }
